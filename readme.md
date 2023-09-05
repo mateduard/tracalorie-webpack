@@ -1,4 +1,4 @@
-#Tracalorie Vanilla JS Project
+# Tracalorie Vanilla JS Project
 
 App created with the purpose of practicing classes and modules, from Brad Traversy's Modern Javascript Course.
 Webpack and Babel were used for bundling the app and Netlify was used to deploy it. The app can be checked at the following link:
